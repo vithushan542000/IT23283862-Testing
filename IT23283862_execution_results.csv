@@ -1,0 +1,11 @@
+file_type,file_path,preview_detected,status,screenshot
+PNG,C:\Users\VITHUSHAN\Downloads\IT23283862\sample.png,True,PASS,C:\Users\VITHUSHAN\Downloads\IT23283862\results\preview_pass.png
+PNG,C:\Users\VITHUSHAN\Downloads\ITPM Final\test_automation_ui\test_automation_ui\sample.png,True,PASS,C:\Users\VITHUSHAN\Downloads\ITPM Final\test_automation_ui\test_automation_ui\results\preview_pass.png
+PNG,C:\Users\VITHUSHAN\Downloads\ITPM Final\test_automation_ui\test_automation_ui\sample.png,False,FAIL,C:\Users\VITHUSHAN\Downloads\ITPM Final\test_automation_ui\test_automation_ui\results\preview_error.png
+PNG,C:\Users\VITHUSHAN\Downloads\ITPM Final\test_automation_ui\test_automation_ui\sample.png,True,PASS,C:\Users\VITHUSHAN\Downloads\ITPM Final\test_automation_ui\test_automation_ui\results\preview_pass.png
+PNG,C:\Users\VITHUSHAN\Downloads\ITPM Final\test_automation_ui\test_automation_ui\sample.png,False,FAIL,C:\Users\VITHUSHAN\Downloads\ITPM Final\test_automation_ui\test_automation_ui\results\preview_error.png
+PNG,C:\Users\VITHUSHAN\Downloads\ITPM Final\test_automation_ui\test_automation_ui\sample.png,True,PASS,C:\Users\VITHUSHAN\Downloads\ITPM Final\test_automation_ui\test_automation_ui\results\preview_pass.pngPNG,C:\Users\VITHUSHAN\Downloads\IT23283862\sample.png,False,FAIL,C:\Users\VITHUSHAN\Downloads\IT23283862\results\preview_error.png
+PNG,C:\Users\VITHUSHAN\Downloads\IT23283862\sample.png,False,FAIL,C:\Users\VITHUSHAN\Downloads\IT23283862\results\preview_error.png
+PNG,C:\Users\VITHUSHAN\Downloads\IT23283862\sample.png,True,PASS,C:\Users\VITHUSHAN\Downloads\IT23283862\results\preview_pass.png
+PNG,C:\Users\VITHUSHAN\Downloads\IT23283862\sample.png,False,FAIL,C:\Users\VITHUSHAN\Downloads\IT23283862\results\preview_error.png
+PNG,C:\Users\VITHUSHAN\Downloads\IT23283862\sample.png,True,PASS,C:\Users\VITHUSHAN\Downloads\IT23283862\results\preview_pass.png
